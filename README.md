@@ -1,4 +1,4 @@
 # codelinetask
-Name : Sawsan Sulaiman AL-Riyami
-Email : sawsansulaiman95@gmail.com
-Phone : 98008387
+Sawsan Sulaiman AL-Riyami
+sawsansulaiman95@gmail.com
+98008387
